@@ -21,10 +21,10 @@ A powerful **WorkSync-Seamlessly-syncs-employee-workflows** built with **React**
 ## 📸 Preview
 
 <p align="center">
-  <img src="src/assets/login.png" alt="Dashboard Screenshot" width="300">
-  <img src="src/assets/admin.png" alt="Task Management Screenshot" width="300">
-  <img src="src/assets/emp.png" alt="Employee View Screenshot" width="300">
-    <img src="src/assets/empscroll.png" alt="Employee View Screenshot" width="300">
+  <img src="src/assets/login.png" alt="Dashboard Screenshot" width="500">
+  <img src="src/assets/admin.png" alt="Task Management Screenshot" width="500">
+  <img src="src/assets/emp1.png" alt="Employee View Screenshot" width="500">
+  <img src="src/assets/empscroll.png" alt="Employee View Screenshot" width="500">
 </p>
 
 ## 🛠️ Installation & Usage
