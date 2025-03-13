@@ -23,14 +23,17 @@ A powerful **WorkSync-Seamlessly-syncs-employee-workflows** built with **React**
 <p align="center">
   <img src="src/assets/login.png" alt="Dashboard Screenshot" width="500">
 </p>
+
 ## Admin Dashboard
 <p align="center">
   <img src="src/assets/admin.png" alt="Task Management Screenshot" width="500">
 </p>
+
 ## Employee Dashboard
 <p align="center">
   <img src="src/assets/emp1.png" alt="Employee View Screenshot" width="500">
 </p>
+
 ## Employee Dashboard Scrollable Cards
 <p align="center">
   <img src="src/assets/empscroll.png" alt="Employee View Screenshot" width="500">
