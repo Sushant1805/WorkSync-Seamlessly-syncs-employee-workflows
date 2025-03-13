@@ -51,7 +51,7 @@ git clone https://github.com/Sushant1805/WorkSync-Seamlessly-syncs-employee-work
 
 2️⃣ Navigate to the project folder:
 ```bash
-cd employee-management-system
+cd WorkSync-Seamlessly-syncs-employee-workflows
 ```
 
 3️⃣ Install dependencies:
