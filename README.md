@@ -46,7 +46,7 @@ A powerful **WorkSync-Seamlessly-syncs-employee-workflows** built with **React**
 
 1️⃣ Clone this repository:
 ```bash
-git clone https://github.com/yourusername/employee-management-system.git
+git clone https://github.com/Sushant1805/WorkSync-Seamlessly-syncs-employee-workflows.git
 ```
 
 2️⃣ Navigate to the project folder:
