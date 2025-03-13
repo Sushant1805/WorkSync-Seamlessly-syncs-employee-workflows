@@ -10,6 +10,7 @@ A powerful **WorkSync-Seamlessly-syncs-employee-workflows** built with **React**
 ✅ **Task Status Update** - Employees can mark tasks as **Completed** or **Failed** ✅❌  
 ✅ **LocalStorage Persistence** - Data is stored even after page reload 🔄  
 ✅ **React-Based UI** - Smooth and interactive user experience ⚛️  
+✅ **Scrollable Employee Cards**- View employees in a scrollable layout for better navigation 🃏
 
 ## 🚀 Tech Stack
 
@@ -20,9 +21,10 @@ A powerful **WorkSync-Seamlessly-syncs-employee-workflows** built with **React**
 ## 📸 Preview
 
 <p align="center">
-  <img src="Assets/SS1.png" alt="Dashboard Screenshot" width="300">
-  <img src="Assets/SS2.png" alt="Task Management Screenshot" width="300">
-  <img src="Assets/SS3.png" alt="Employee View Screenshot" width="300">
+  <img src="assetslogin.png" alt="Dashboard Screenshot" width="300">
+  <img src="assets/admin.png" alt="Task Management Screenshot" width="300">
+  <img src="assets/emp.png" alt="Employee View Screenshot" width="300">
+    <img src="assets/empscroll.png" alt="Employee View Screenshot" width="300">
 </p>
 
 ## 🛠️ Installation & Usage
