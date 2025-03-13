@@ -2,9 +2,9 @@ import React, { useContext } from 'react'
 import { AuthContext } from '../../Context/AuthProvider'
 import AuthProvider from '../../Context/AuthProvider'
 const AllTasks = () => {
-  AuthProvider
+  
   const data = useContext(AuthContext)
-  console.log(data.employees)
+  console.log(data[0].employees)
   return (
     <>
    
@@ -18,7 +18,7 @@ const AllTasks = () => {
       </div>
       <div id='all-task-list' className=' overflow-y-auto'>
         {
-          data.employees.map(function(elem,k){
+          data[0].employees.map(function(elem,k){
             return <div key={k} className='flex justify-between h-5 items-center p-5 m-3 rounded-2xl bg-blue-300 '>
             <h2 className='w-1/5'>{elem.firstname}</h2>
             <h3 className='w-1/5'>{elem.task_numbers.new_task}</h3>

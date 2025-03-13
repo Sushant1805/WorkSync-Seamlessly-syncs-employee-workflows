@@ -8,7 +8,10 @@ const employees = [
     "tasks": [
       { "title": "Implement User Authentication", "description": "Develop and integrate a secure authentication system using JWT.", "category": "Development", "active": true, "new_task": true, "completed": false, "failed": false },
       { "title": "Optimize Database Queries", "description": "Analyze and improve SQL queries to reduce response time.", "category": "Database Optimization", "active": false, "new_task": false, "completed": true, "failed": false },
-      { "title": "Create API Documentation", "description": "Write detailed API documentation for internal and external use.", "category": "Documentation", "active": true, "new_task": false, "completed": false, "failed": false }
+      { "title": "Create API Documentation", "description": "Write detailed API documentation for internal and external use.", "category": "Documentation", "active": true, "new_task": false, "completed": false, "failed": false },
+      { "title": "Develop Frontend Components", "description": "Create reusable React components for the user dashboard.", "category": "Frontend Development", "active": false, "new_task": true, "completed": false, "failed": false },
+      { "title": "Fix Login Page Bugs", "description": "Resolve issues with form validation and improve UX.", "category": "Bug Fixing", "active": true, "new_task": false, "completed": false, "failed": false }
+      
     ],
     "task_numbers": { "active": 2, "new_task": 1, "completed": 1, "failed": 0 }
   },
