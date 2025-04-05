@@ -1,4 +1,4 @@
-# 👨‍💼 Employee Management System
+# 👨‍💼 WorkSync-Seamlessly-syncs-employee-workflows
 
 A powerful **WorkSync-Seamlessly-syncs-employee-workflows** built with **React** and **LocalStorage**. This app helps administrators assign tasks, track employee performance, and visualize task statuses on a dynamic dashboard. 🚀📊
 
@@ -10,6 +10,7 @@ A powerful **WorkSync-Seamlessly-syncs-employee-workflows** built with **React**
 ✅ **Task Status Update** - Employees can mark tasks as **Completed** or **Failed** ✅❌  
 ✅ **LocalStorage Persistence** - Data is stored even after page reload 🔄  
 ✅ **React-Based UI** - Smooth and interactive user experience ⚛️  
+✅ **Scrollable Employee Cards**- View employees in a scrollable layout for better navigation 🃏
 
 ## 🚀 Tech Stack
 
@@ -18,23 +19,39 @@ A powerful **WorkSync-Seamlessly-syncs-employee-workflows** built with **React**
 - **CSS3** - Styling and responsiveness 🎨
 
 ## 📸 Preview
-
+## Login Page
 <p align="center">
-  <img src="Assets/SS1.png" alt="Dashboard Screenshot" width="300">
-  <img src="Assets/SS2.png" alt="Task Management Screenshot" width="300">
-  <img src="Assets/SS3.png" alt="Employee View Screenshot" width="300">
+  <img src="src/assets/login.png" alt="Dashboard Screenshot" width="500">
 </p>
+
+## Admin Dashboard
+<p align="center">
+  <img src="src/assets/admin.png" alt="Task Management Screenshot" width="500">
+</p>
+
+## Employee Dashboard
+<p align="center">
+  <img src="src/assets/emp1.png" alt="Employee View Screenshot" width="500">
+</p>
+
+## Employee Dashboard Scrollable Cards
+<p align="center">
+  <img src="src/assets/empscroll.png" alt="Employee View Screenshot" width="500">
+</p>
+ 
+
+
 
 ## 🛠️ Installation & Usage
 
 1️⃣ Clone this repository:
 ```bash
-git clone https://github.com/yourusername/employee-management-system.git
+git clone https://github.com/Sushant1805/WorkSync-Seamlessly-syncs-employee-workflows.git
 ```
 
 2️⃣ Navigate to the project folder:
 ```bash
-cd employee-management-system
+cd WorkSync-Seamlessly-syncs-employee-workflows
 ```
 
 3️⃣ Install dependencies:
