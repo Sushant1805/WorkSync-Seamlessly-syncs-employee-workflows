@@ -5,12 +5,13 @@ import AdminDashboard from './Components/Dashboard/AdminDashboard'
 import AllTasks from './Components/TaskLists/AllTasks'
 import { setLocalStorage,getLocalStorage } from './Utils/LocalStorage'
 import AuthProvider, { AuthContext } from './Context/AuthProvider'
+import CommentsSection from './Components/TaskLists/CommentsSection'
 
 
 
 
 const App = ()=>{
-  
+  let a = "Hello";
   const [user, setuser] = useState(null)
   const [loggedUserData, setloggedUserData] = useState(null)
   const [authData,setData] = useContext(AuthContext)
@@ -42,7 +43,7 @@ const App = ()=>{
   
   return (
     <>
-{!user && <Login handleLogin={handleLogin} />}
+{/* {!user && <Login handleLogin={handleLogin} />}
 
 {user === 'Admin' && (
     <div className='bg-[#1C1C1C] h-screen p-10'>
@@ -58,9 +59,10 @@ const App = ()=>{
 )}
 
    
+    */}
    
-   
-   
+   {/* <CommentsSection/> */}
+   <h1>{a}</h1>
     </>
   )
 
