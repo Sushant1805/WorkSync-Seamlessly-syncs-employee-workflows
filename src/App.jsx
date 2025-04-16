@@ -11,6 +11,10 @@ import CommentsSection from './Components/TaskLists/CommentsSection'
 
 
 const App = ()=>{
+  const h1 = {
+    color : "Red",
+    backgroundColor: "Blue"
+  }
   let a = "Hello";
   const [user, setuser] = useState(null)
   const [loggedUserData, setloggedUserData] = useState(null)
@@ -43,7 +47,7 @@ const App = ()=>{
   
   return (
     <>
-{/* {!user && <Login handleLogin={handleLogin} />}
+{!user && <Login handleLogin={handleLogin} />}
 
 {user === 'Admin' && (
     <div className='bg-[#1C1C1C] h-screen p-10'>
@@ -59,10 +63,9 @@ const App = ()=>{
 )}
 
    
-    */}
    
-   {/* <CommentsSection/> */}
-   <h1>{a}</h1>
+   
+  
     </>
   )
 
